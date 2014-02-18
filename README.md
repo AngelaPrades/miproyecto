@@ -1,0 +1,4 @@
+miproyecto
+==========
+
+Prueba de clase
